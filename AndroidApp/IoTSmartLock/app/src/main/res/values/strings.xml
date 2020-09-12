@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SLock</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_out">Log out</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create account</string>
+    <string name="create_acc"><u>New user? Click to create an account</u>.</string>
+    <string name="add_device">Add device</string>
+    <string name="add_device_tip">Add device by IP and password</string>
+    <string name="IP">IP address of device</string>
+    <string name="welcome">Welcome: %s!</string>
+    <string name="select_device">Select device:</string>
+</resources>
