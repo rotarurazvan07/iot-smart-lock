@@ -1,0 +1,1 @@
+./runonce.sh "export DISPLAY=:0 && python 03_face_recognizer.py" && sudo reboot
